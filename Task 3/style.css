@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  background-image: url('https://hdqwalls.com/download/triangles-colorful-background-nz-1560x1080.jpg');
+
+}
+
+h1, h2 {
+  font-family: Arial, sans-serif;
+}
+
+#new-task {
+  margin-right: 10px;
+  padding: 5px;
+  width: 300px;
+  border-color: rgba(112, 37, 178, 0.922);
+  background-color:rgba(171, 54, 118, 0.774);
+}
+
+#add-task {
+  padding: 5px 10px;
+  border-color: rgba(118, 35, 88, 0.954);
+  background-color: rgba(18, 63, 146, 0.632);
+  color: rgba(246, 108, 218, 0.712);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+  padding: 5px;
+  border: 1px solid #371b1b6c;
+  border-radius: 5px;
+}
+
+.completed {
+  background-color: rgba(157, 82, 203, 0.598);
+}

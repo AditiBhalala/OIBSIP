@@ -1,0 +1,52 @@
+body{
+  background-image: url('https://wallpaperset.com/w/full/d/e/8/7662.jpg');
+  background-size: 100% 130%;
+  background-repeat: no-repeat;
+}
+
+.calculator {
+  background-color: #b1cef9;
+  width: 291px;
+  margin: 131px auto;
+  border: 1px solid #110606;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #1e1b1b;
+  padding: 12px;
+}
+
+.display {
+  width: 90%;
+  margin-bottom: 10px;
+}
+
+.display input {
+  background-color: #133145;
+  width: 102%;
+  height: 30px;
+  font-size: 25px;
+  color:rgb(206, 212, 217);
+  text-align: right;
+  border: 1px solid #110606; 
+  border-radius: 5px;
+  padding: 9px;
+}
+
+.keys button {
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: #648cac;
+  cursor: pointer;
+}
+
+.keys button:hover {
+  background-color: #5ab0b9;
+}
+
+.keys button:active {
+  background-color: #065576;
+}
